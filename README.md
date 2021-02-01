@@ -20,3 +20,6 @@ dan juga saya membuat sebuah folder pages , yang di dalam nya terdapat beberapa 
  dan untuk menghubungkanya saya `link`/`import` ke dalam Folder yang di dalam nya terdapat file `layout` & `navbar`
  
  Sebagai contoh tampilan dengan hasil yang saya buat lihat gambar di bawah ini.
+
+
+![Gambar8Tugas3](https://user-images.githubusercontent.com/49724910/106471185-f7035580-64d3-11eb-8998-98690c04f890.PNG)
