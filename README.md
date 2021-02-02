@@ -1,6 +1,6 @@
 <h1>How To Using FETCH API with Next.Js
 
-Next.js merupakan salah satu framework node.js yang cukup populer yang memungkinkan SSR dengan lebih mudah, dan tentunya dengan fitur2 menakjubkan lainnya.
+<h4>Next.js merupakan salah satu framework node.js yang cukup populer yang memungkinkan SSR dengan lebih mudah, dan tentunya dengan fitur2 menakjubkan lainnya.
 
 Di sini saya akan menjelaskan project yang saya buat ini 
  
