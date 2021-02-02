@@ -1,20 +1,20 @@
 <h1>How To Using FETCH API with Next.Js
 
-<h1>Next.js merupakan salah satu framework node.js yang cukup populer yang memungkinkan SSR dengan lebih mudah, dan tentunya dengan fitur2 menakjubkan lainnya.
+Next.js merupakan salah satu framework node.js yang cukup populer yang memungkinkan SSR dengan lebih mudah, dan tentunya dengan fitur2 menakjubkan lainnya.
 
-<h2>Di sini saya akan menjelaskan project yang saya buat ini 
+Di sini saya akan menjelaskan project yang saya buat ini 
  
-pertama, secara kita harus menginsatal dulu Framework Next.js nya terlebih dahulu dengan menggunakan `npx create-next-app`yang mana ini akan membuat sebuah folder di dikteori kita
+pertama, secara kita harus menginsatal dulu Framework Next.js nya terlebih dahulu dengan menggunakan `npx create-next-app`yang mana ini akan membuat sebuah folder di direktori kita
 
-untuk tampilan saya juga menggunakan `React-boostrap` sebagai tampilan UI nya , Setelah itu saya membuat componnet `navbar` dan `layout` sebagai penghubung `link` tabelnya
+untuk tampilan saya juga menggunakan `React-boostrap` sebagai tampilan UI nya , Setelah itu saya membuat component `navbar` dan `layout` sebagai penghubung `link` tabelnya
 
 dan juga saya membuat sebuah folder pages , yang di dalam nya terdapat beberapa file `react.js` antara lain
-<li>Photos
-  <li>Users
-    <li>Commments
-      <li>Todos
-        <li>Posts
-          <li>Albums
+Photos
+Users
+Commments
+Todos
+Posts
+Albums
  
  yang dimana semua file itu untuk memanggial data `API` di masing masing user, 
  dan untuk menghubungkanya saya `link`/`import` ke dalam Folder yang di dalam nya terdapat file `layout` & `navbar`
